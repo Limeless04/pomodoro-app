@@ -1,6 +1,3 @@
-
-# ⏱️ Pomodoro App
-
 # ⏱️ Pomodoro App
 
 A lightweight **Pomodoro Timer** desktop application built with **Vue 3** and **Electron**, using `electron-vite` for development and build. No external state management libraries are used — just clean, native Vue composition.
