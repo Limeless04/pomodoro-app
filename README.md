@@ -25,5 +25,5 @@ This app helps you follow that cycle effortlessly.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vue-electron-pomodoro.git
+git clone git@github.com:Limeless04/pomodoro-app.git
 cd vue-electron-pomodoro
