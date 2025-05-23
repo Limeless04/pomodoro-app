@@ -1,28 +1,28 @@
 
 # ⏱️ Pomodoro App
 
-A minimalist **Pomodoro timer** desktop application built with **Vue.js** and **Electron**.  
-Designed for simplicity and focus — no distractions, no state management, just productivity.
+# ⏱️ Pomodoro App
 
-## 🧠 What is Pomodoro?
+A lightweight **Pomodoro Timer** desktop application built with **Vue 3** and **Electron**, using `electron-vite` for development and build. No external state management libraries are used — just clean, native Vue composition.
 
-The **Pomodoro Technique** is a time management method:
-- 25 minutes of focused work
-- 5-minute short break
-- 15–30 minute long break every 4 sessions
+## 🎯 Features
 
-This app helps you follow that cycle effortlessly.
+- 🍅 Pomodoro technique timer
+- 🔁 Start, pause, and reset cycles
+- 🖥️ Cross-platform desktop support (Windows, macOS, Linux)
+- ⚡ Fast dev/build setup using `electron-vite`
+- 🧩 Built without Vuex or Pinia – pure Vue logic
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-- 🖥️ **Electron** – Cross-platform desktop application runtime
-- 🌱 **Vue.js** – Lightweight and reactive front-end framework
-- 🎨 **Vanilla CSS** – Clean, custom styling
-- 💾 **No state management** – Pure component logic for simplicity
+- 🔧 **Vue 3** for UI
+- 🧪 **Electron** for desktop capabilities
+- ⚡ **electron-vite** for efficient tooling
+- 📝 **Prettier** and **ESLint** for formatting and linting
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone git@github.com:Limeless04/pomodoro-app.git
